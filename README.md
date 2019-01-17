@@ -1,2 +1,4 @@
 # PapersRead
-A site for my notes from papers|articles that I've read.
+A website/forum for my notes from research papers/articles that I've read.
+
+**Expected First Release : Early Feburary
