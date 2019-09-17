@@ -3,8 +3,8 @@ title: Vivek Kaushal
 description: >
   CSE, IIIT Hyderabad
 
-baseurl: "/project/" # the subpath of your site, e.g. /blog/
-url: "http://kaushalvivek.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kaushalvivek.github.io/lit-review" # the base hostname & protocol for your site
 
 author:
   fullname: Vivek Kaushal
