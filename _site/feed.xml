@@ -4,10 +4,10 @@
     <title>Vivek Kaushal</title>
     <description>CSE, IIIT Hyderabad
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Sep 2019 19:24:06 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2019 19:24:06 +0530</lastBuildDate>
+    <link>http://localhost:4000/lit-review/</link>
+    <atom:link href="http://localhost:4000/lit-review/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Sep 2019 19:27:28 +0530</pubDate>
+    <lastBuildDate>Tue, 17 Sep 2019 19:27:28 +0530</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -21,8 +21,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 17 Sep 2019 05:07:01 +0530</pubDate>
-        <link>http://localhost:4000/2019/09/17/to-be-added.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/17/to-be-added.html</guid>
+        <link>http://localhost:4000/lit-review/2019/09/17/to-be-added.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lit-review/2019/09/17/to-be-added.html</guid>
         
         
       </item>
@@ -34,8 +34,8 @@
 &lt;p&gt;Link to sheet : &lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vQyYAmjgW7WrOzJVPb38E5HqKBsjOu44MO_0p5EooF91DAkMt70_lmy2e4bclJD5XYuOYwak04Bqq2a/pubhtml?gid=0&amp;amp;single=true&quot;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vQyYAmjgW7WrOzJVPb38E5HqKBsjOu44MO_0p5EooF91DAkMt70_lmy2e4bclJD5XYuOYwak04Bqq2a/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Sep 2019 05:06:01 +0530</pubDate>
-        <link>http://localhost:4000/2019/09/17/risk-intelligence.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/17/risk-intelligence.html</guid>
+        <link>http://localhost:4000/lit-review/2019/09/17/risk-intelligence.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lit-review/2019/09/17/risk-intelligence.html</guid>
         
         
       </item>
@@ -47,8 +47,8 @@
 &lt;p&gt;Link to sheet : &lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vR_2ZsDrOKKtnYujiRi-BCAADwOrATIrcifScz2K3p4-B1aizPUCn6VvrfruDt8p23VFpzBTPb9cXJc/pubhtml?gid=0&amp;amp;single=true&quot;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vR_2ZsDrOKKtnYujiRi-BCAADwOrATIrcifScz2K3p4-B1aizPUCn6VvrfruDt8p23VFpzBTPb9cXJc/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Sep 2019 05:05:01 +0530</pubDate>
-        <link>http://localhost:4000/2019/09/17/freedom-of-choice.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/17/freedom-of-choice.html</guid>
+        <link>http://localhost:4000/lit-review/2019/09/17/freedom-of-choice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lit-review/2019/09/17/freedom-of-choice.html</guid>
         
         
       </item>
@@ -60,8 +60,8 @@
 &lt;p&gt;Link to sheet : &lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuiyZ3N5icXiOqtsHEtGMPe1CRuUrb-ETQRTdbCOFdkMriqbQB1FfiiXyfha6sRxhiiUGz5f8QgFI/pubhtml?gid=0&amp;amp;single=true&quot;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuiyZ3N5icXiOqtsHEtGMPe1CRuUrb-ETQRTdbCOFdkMriqbQB1FfiiXyfha6sRxhiiUGz5f8QgFI/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Sep 2019 05:04:01 +0530</pubDate>
-        <link>http://localhost:4000/2019/09/16/miscellaneous.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/09/16/miscellaneous.html</guid>
+        <link>http://localhost:4000/lit-review/2019/09/16/miscellaneous.html</link>
+        <guid isPermaLink="true">http://localhost:4000/lit-review/2019/09/16/miscellaneous.html</guid>
         
         
       </item>
