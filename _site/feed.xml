@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vivek Kaushal</title>
+    <description>CSE, IIIT Hyderabad
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Sep 2019 19:07:40 +0530</pubDate>
+    <lastBuildDate>Tue, 17 Sep 2019 19:07:40 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>To Be Added</title>
+        <description>&lt;p&gt;Three projects that I am currently working on would be added here over the course of the next few months. The topics for these projects are as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Clickbait and Curiosity&lt;/li&gt;
+  &lt;li&gt;Loot-boxes in mobile-gaming&lt;/li&gt;
+  &lt;li&gt;2D Skeleton and 3D Avatar perception&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 17 Sep 2019 05:07:01 +0530</pubDate>
+        <link>http://localhost:4000/2019/09/17/to-be-added.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/17/to-be-added.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Risk Intelligence and Academic Performance</title>
+        <description>&lt;p&gt;An experimental study using a career choice simulator – presented at FUR, 2018 – submitted for publication at ACCS, 2019.&lt;/p&gt;
+
+&lt;p&gt;Link to sheet : &lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vQyYAmjgW7WrOzJVPb38E5HqKBsjOu44MO_0p5EooF91DAkMt70_lmy2e4bclJD5XYuOYwak04Bqq2a/pubhtml?gid=0&amp;amp;single=true&quot;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vQyYAmjgW7WrOzJVPb38E5HqKBsjOu44MO_0p5EooF91DAkMt70_lmy2e4bclJD5XYuOYwak04Bqq2a/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Sep 2019 05:06:01 +0530</pubDate>
+        <link>http://localhost:4000/2019/09/17/risk-intelligence.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/17/risk-intelligence.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Freedom of Choice</title>
+        <description>&lt;p&gt;The following sheet comprises of research papers that I read before and during the summers of 2019, while working as a research assistant at the National Taiwan University, Taipei, under Professor Hendrik Rommeswinkel.&lt;/p&gt;
+
+&lt;p&gt;Link to sheet : &lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vR_2ZsDrOKKtnYujiRi-BCAADwOrATIrcifScz2K3p4-B1aizPUCn6VvrfruDt8p23VFpzBTPb9cXJc/pubhtml?gid=0&amp;amp;single=true&quot;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vR_2ZsDrOKKtnYujiRi-BCAADwOrATIrcifScz2K3p4-B1aizPUCn6VvrfruDt8p23VFpzBTPb9cXJc/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Sep 2019 05:05:01 +0530</pubDate>
+        <link>http://localhost:4000/2019/09/17/freedom-of-choice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/17/freedom-of-choice.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Miscellaneous</title>
+        <description>&lt;p&gt;The following sheet comprises of research papers that I’ve read out of interest, and which do not belong to any of the research projects that I am / have been working on.&lt;/p&gt;
+
+&lt;p&gt;Link to sheet : &lt;a href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuiyZ3N5icXiOqtsHEtGMPe1CRuUrb-ETQRTdbCOFdkMriqbQB1FfiiXyfha6sRxhiiUGz5f8QgFI/pubhtml?gid=0&amp;amp;single=true&quot;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuiyZ3N5icXiOqtsHEtGMPe1CRuUrb-ETQRTdbCOFdkMriqbQB1FfiiXyfha6sRxhiiUGz5f8QgFI/pubhtml?gid=0&amp;amp;single=true&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Sep 2019 05:04:01 +0530</pubDate>
+        <link>http://localhost:4000/2019/09/16/miscellaneous.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/16/miscellaneous.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
