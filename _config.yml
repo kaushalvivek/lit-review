@@ -4,7 +4,7 @@ description: >
   CSE, IIIT Hyderabad
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://kaushalvivek.github.io/lit-review" # the base hostname & protocol for your site
 
 author:
   fullname: Vivek Kaushal
