@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2019/09/17/to-be-added.html/</loc>
+      <loc>http://kaushalvivek.github.io/2019/09/17/to-be-added.html/</loc>
       
         <lastmod>2019-09-17T05:07:01+05:30</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2019/09/17/risk-intelligence.html/</loc>
+      <loc>http://kaushalvivek.github.io/2019/09/17/risk-intelligence.html/</loc>
       
         <lastmod>2019-09-17T05:06:01+05:30</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2019/09/17/freedom-of-choice.html/</loc>
+      <loc>http://kaushalvivek.github.io/2019/09/17/freedom-of-choice.html/</loc>
       
         <lastmod>2019-09-17T05:05:01+05:30</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/2019/09/16/miscellaneous.html/</loc>
+      <loc>http://kaushalvivek.github.io/2019/09/16/miscellaneous.html/</loc>
       
         <lastmod>2019-09-16T05:04:01+05:30</lastmod>
       
@@ -66,9 +66,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/about/</loc>
+      <loc>http://kaushalvivek.github.io/about/</loc>
       
-        <lastmod>2019-09-17T19:27:28+05:30</lastmod>
+        <lastmod>2020-02-17T21:33:24+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,26 +81,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/categories/design/</loc>
+      <loc>http://kaushalvivek.github.io/categories/design/</loc>
       
-        <lastmod>2019-09-17T19:27:28+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/</loc>
-      
-        <lastmod>2019-09-17T19:27:28+05:30</lastmod>
+        <lastmod>2020-02-17T21:33:24+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -115,9 +98,26 @@
   
     
     <url>
-      <loc>http://localhost:4000/categories/productivity/</loc>
+      <loc>http://kaushalvivek.github.io/</loc>
       
-        <lastmod>2019-09-17T19:27:28+05:30</lastmod>
+        <lastmod>2020-02-17T21:33:24+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>http://kaushalvivek.github.io/categories/productivity/</loc>
+      
+        <lastmod>2020-02-17T21:33:24+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -134,9 +134,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/categories/tools/</loc>
+      <loc>http://kaushalvivek.github.io/categories/tools/</loc>
       
-        <lastmod>2019-09-17T19:27:28+05:30</lastmod>
+        <lastmod>2020-02-17T21:33:24+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
